@@ -1,1 +1,5 @@
 1. Starting is generally done from defining routes - done in App.js
+
+Todo
++hand icon needs replacement
++ Modul.css file has scope only to the parent component and will not be applied to child classes such as Link and hence for that we use inline classes
