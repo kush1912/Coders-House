@@ -3,3 +3,8 @@
 Todo
 +hand icon needs replacement
 + Modul.css file has scope only to the parent component and will not be applied to child classes such as Link and hence for that we use inline classes
+
++Children Prop
+
++ Event Listers can't be added into componenst tags,
+its has to be added inside the components
